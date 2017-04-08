@@ -25,7 +25,7 @@
       <content type="html"><![CDATA[<p>#这里开始使用markdown格式输入你的正文。<br><a id="more"></a> </p>
 <h2 id="more标签以下的内容要点击“阅读全文”才能看见"><a href="#more标签以下的内容要点击“阅读全文”才能看见" class="headerlink" title="#more标签以下的内容要点击“阅读全文”才能看见"></a>#more标签以下的内容要点击“阅读全文”才能看见</h2><p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><ul>
-<li><img src="/img/tree.jpg" alt=""></li>
+<li><img src="http://oo2yx8si1.bkt.clouddn.com/IMG_20170403_183506%281%29.jpg" alt=""></li>
 </ul>
 <h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
 <p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
