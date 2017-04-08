@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/photo/index.html</loc>
+    
+    <lastmod>2017-04-08T14:09:59.004Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/photo/tool.js</loc>
+    
+    <lastmod>2017-04-08T14:09:56.483Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/guestbook/index-1.html</loc>
     
     <lastmod>2017-04-08T11:55:02.201Z</lastmod>
