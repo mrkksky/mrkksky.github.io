@@ -47,7 +47,7 @@
     <link href="http://yoursite.com/2017/01/10/%E9%9A%8F%E7%AC%94/"/>
     <id>http://yoursite.com/2017/01/10/随笔/</id>
     <published>2017-01-10T15:49:28.000Z</published>
-    <updated>2017-04-08T14:53:15.703Z</updated>
+    <updated>2017-04-09T08:16:47.864Z</updated>
     
     <content type="html"><![CDATA[<p>#这里开始使用markdown格式输入你的正文。<br><a id="more"></a> </p>
 <h2 id="more标签以下的内容要点击“阅读全文”才能看见"><a href="#more标签以下的内容要点击“阅读全文”才能看见" class="headerlink" title="#more标签以下的内容要点击“阅读全文”才能看见"></a>#more标签以下的内容要点击“阅读全文”才能看见</h2><p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
@@ -61,6 +61,8 @@
 <h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
 <p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
 <h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="http://music.163.com/outchain/player?type=2&id=28947001&auto=1&height=66"></iframe>
+
 <p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
 ]]></content>
     
