@@ -1720,7 +1720,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #b1091b;
+  background: #340f46;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2588,7 +2588,7 @@ embed {
   background: rgba(240,240,240,0.5);
   margin-left: auto;
   margin-right: auto;
-  width: 530px;
+  width: 600px;
   border-radius: initial;
 }
 a {
