@@ -1720,7 +1720,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ffe20a;
+  background: #8a5c33;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2571,7 +2571,7 @@ embed {
   background: url("http://ojoba1c98.bkt.clouddn.com/img/header/header_background.jpg");
 }
 .site-subtitle {
-  font-size: 20px;
+  font-size: 25px;
   color: #fff;
 }
 .site-title {
@@ -2599,7 +2599,7 @@ a:hover {
   border-bottom-color: #ff106c;
 }
 .menu .menu-item a {
-  font-size: 17px;
+  font-size: 20px;
 }
 .menu .menu-item a:hover {
   border-bottom-color: #ff106c;
