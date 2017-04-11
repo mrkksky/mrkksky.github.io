@@ -1720,7 +1720,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ec3c77;
+  background: #ffff37;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2580,7 +2580,7 @@ embed {
 }
 .brand {
   background: transparent;
-  width: 700px;
+  width: 800px;
 }
 .menu {
   margin-top: 20px;
