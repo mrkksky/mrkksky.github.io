@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-04-18T09:26:20.904Z</updated>
+  <updated>2017-04-18T10:18:06.419Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,47 +16,21 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
+    <title>攻略-台湾</title>
     <link href="http://yoursite.com/2017/04/13/%E6%94%BB%E7%95%A5-%E5%8F%B0%E6%B9%BE/"/>
     <id>http://yoursite.com/2017/04/13/攻略-台湾/</id>
     <published>2017-04-13T14:13:45.352Z</published>
-    <updated>2017-04-18T09:26:20.904Z</updated>
+    <updated>2017-04-18T10:18:06.419Z</updated>
     
-    <content type="html"><![CDATA[<hr>
-<p>title: 攻略-台湾</p>
-<p>categories: travel  # 文章分类目录，多个分类使用[a,b,c]这种格式</p>
-<p>tags: [travel,TaiBei]  # 文章标签</p>
-<hr>
-<p>  毕业旅游之台北，提前规划下行程。</p>
-<a id="more"></a> 
+    <content type="html"><![CDATA[<p>  毕业旅游之台湾，提前规划下行程。<br><a id="more"></a> </p>
 <pre><code>台北
-</code></pre><p>  台北是个不夜城，夜市，充满活力。</p>
-<p>  新北市：九份（山城，千与千寻取景）和淡水（渔人码头夜景）</p>
-<p>  101大楼、西门町街头、24小时诚品书店、台北故宫、象山（拍台北夜景）</p>
-<p>  艋钾-台北发展起点，大稻埕-新文化基地，台北东区-最繁华区域，忠孝东路-最贵地段</p>
-<p>  交通：高铁（适合长途）和台铁（适合中短途），地铁叫捷运，买悠游卡</p>
-<p>  阳明山-海芋花，北投温泉</p>
-<p>  景点：</p>
-<p>  北投&amp;士林区—台北博物馆、士林官邸、北投温泉、地热谷、阳明山公园</p>
-<p>  大同&amp;万华区（台北西部）—</p>
-<p>  住宿：</p>
-<p>  台北车站（出行方便）</p>
-<p>  西门町（热闹）</p>
-<p>  建议订在信义区</p>
-<p>  美食：</p>
-<p>  牛肉面</p>
-<p>  夜市：</p>
-<p>  路线：D1:中正纪念堂-自由广场-西门町-西门红楼-信义商圈-台北101</p>
-<p>  D2：北投公园-台北故宫-士林夜市</p>
-<p>  工具：梦想旅行APP</p>
+</code></pre><p>  台北是个不夜城，夜市，充满活力。<br>  新北市：九份（山城，千与千寻取景）和淡水（渔人码头夜景）<br>  101大楼、西门町街头、24小时诚品书店、台北故宫、象山（拍台北夜景）<br>  艋钾-台北发展起点，大稻埕-新文化基地，台北东区-最繁华区域，忠孝东路-最贵地段<br>  交通：高铁（适合长途）和台铁（适合中短途），地铁叫捷运，买悠游卡<br>  阳明山-海芋花，北投温泉<br>  景点：<br>  北投&amp;士林区—台北博物馆、士林官邸、北投温泉、地热谷、阳明山公园<br>  大同&amp;万华区（台北西部）—<br>  住宿：<br>  台北车站（出行方便）<br>  西门町（热闹）<br>  建议订在信义区<br>  美食：<br>  牛肉面<br>  夜市：<br>  路线：D1:中正纪念堂-自由广场-西门町-西门红楼-信义商圈-台北101<br>  D2：北投公园-台北故宫-士林夜市<br>  工具：梦想旅行APP</p>
 <pre><code>嘉义
 </code></pre><p>  阿里山小火车</p>
 <pre><code>台南
-</code></pre><p>  一府二鹿三艋胛</p>
-<p>  安平古堡、赤崁楼，花园夜市，孔庙</p>
+</code></pre><p>  一府二鹿三艋胛<br>  安平古堡、赤崁楼，花园夜市，孔庙</p>
 <pre><code>垦丁
-</code></pre><p>  关山夕照（看夕阳）、垦丁大街、龙坑自然生态保护区、鹅銮鼻公园、</p>
-<p>  住宿：恒春</p>
+</code></pre><p>  关山夕照（看夕阳）、垦丁大街、龙坑自然生态保护区、鹅銮鼻公园、<br>  住宿：恒春</p>
 <pre><code>高雄
 </code></pre><p>  美丽岛捷运站、六合夜市、驳二艺术特区</p>
 <h2 id="中山纪念堂"><a href="#中山纪念堂" class="headerlink" title="中山纪念堂"></a>中山纪念堂</h2><ul>
@@ -90,19 +64,22 @@
 
 
 
+
+
 ]]></content>
     
     <summary type="html">
     
-      &lt;hr&gt;
-&lt;p&gt;title: 攻略-台湾&lt;/p&gt;
-&lt;p&gt;categories: travel  # 文章分类目录，多个分类使用[a,b,c]这种格式&lt;/p&gt;
-&lt;p&gt;tags: [travel,TaiBei]  # 文章标签&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;  毕业旅游之台北，提前规划下行程。&lt;/p&gt;
+      &lt;p&gt;  毕业旅游之台湾，提前规划下行程。&lt;br&gt;
     
     </summary>
     
+      <category term="travel" scheme="http://yoursite.com/categories/travel/"/>
+    
+    
+      <category term="travel" scheme="http://yoursite.com/tags/travel/"/>
+    
+      <category term="TaiBei" scheme="http://yoursite.com/tags/TaiBei/"/>
     
   </entry>
   
