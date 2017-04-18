@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/2017/04/13/%E6%94%BB%E7%95%A5-%E5%8F%B0%E6%B9%BE/</loc>
+    
+    <lastmod>2017-04-17T14:51:30.756Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2017/04/09/%E5%B9%BF%E5%B7%9E%E5%8D%B0%E8%B1%A1/</loc>
     
     <lastmod>2017-04-11T11:28:17.034Z</lastmod>
@@ -26,13 +33,6 @@
     <loc>http://yoursite.com/categories/index.html</loc>
     
     <lastmod>2017-04-09T07:59:00.313Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/guestbook/index-1.html</loc>
-    
-    <lastmod>2017-04-09T07:49:07.528Z</lastmod>
     
   </url>
   
