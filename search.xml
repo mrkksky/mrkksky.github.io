@@ -3,9 +3,11 @@
   
     
     <entry>
-      <title><![CDATA[攻略-台湾]]></title>
+      <title></title>
       <url>/2017/04/13/%E6%94%BB%E7%95%A5-%E5%8F%B0%E6%B9%BE/</url>
-      <content type="html"><![CDATA[<p>  毕业旅游之台北，提前规划下行程。<br><a id="more"></a> </p>
+      <content type="html"><![CDATA[<hr>
+<p>title: 攻略-台湾<br>categories: travel  # 文章分类目录，多个分类使用[a,b,c]这种格式</p>
+<h2 id="tags-travel-TaiBei-文章标签"><a href="#tags-travel-TaiBei-文章标签" class="headerlink" title="tags: [travel,TaiBei]  # 文章标签"></a>tags: [travel,TaiBei]  # 文章标签</h2><p>  毕业旅游之台北，提前规划下行程。<br><a id="more"></a> </p>
 <pre><code>台北
 </code></pre><p>  台北是个不夜城，夜市，充满活力。<br>  新北市：九份（山城，千与千寻取景）和淡水（渔人码头夜景）</p>
 <p>  101大楼、西门町街头、24小时诚品书店、台北故宫、象山（拍台北夜景）<br>  艋钾-台北发展起点，大稻埕-新文化基地，台北东区-最繁华区域，忠孝东路-最贵地段<br>  交通：高铁（适合长途）和台铁（适合中短途），地铁叫捷运，买悠游卡<br>  阳明山-海芋花，北投温泉<br>  景点：<br>  北投&amp;士林区—台北博物馆、士林官邸、北投温泉、地热谷、阳明山公园<br>  大同&amp;万华区（台北西部）—<br>  住宿：<br>  台北车站（出行方便）<br>  西门町（热闹）<br>  建议订在信义区<br>  美食：<br>  牛肉面<br>  夜市：<br>  路线：D1:中正纪念堂-自由广场-西门町-西门红楼-信义商圈-台北101<br>  D2：北投公园-台北故宫-士林夜市<br>  工具：梦想旅行APP</p>
@@ -32,20 +34,6 @@
 
 ]]></content>
       
-        <categories>
-            
-            <category> travel </category>
-            
-        </categories>
-        
-        
-        <tags>
-            
-            <tag> travel </tag>
-            
-            <tag> TaiBei </tag>
-            
-        </tags>
         
     </entry>
     
