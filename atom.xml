@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-04-19T04:17:37.648Z</updated>
+  <updated>2017-04-19T09:34:21.562Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,9 +20,10 @@
     <link href="http://yoursite.com/2017/04/18/Markdown/"/>
     <id>http://yoursite.com/2017/04/18/Markdown/</id>
     <published>2017-04-18T13:24:49.768Z</published>
-    <updated>2017-04-19T04:17:37.648Z</updated>
+    <updated>2017-04-19T09:34:21.562Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="引用"><a href="#引用" class="headerlink" title="引用"></a>引用</h2><blockquote>
+    <content type="html"><![CDATA[<p>记录下Markdown语法。<br><a id="more"></a> </p>
+<h2 id="引用"><a href="#引用" class="headerlink" title="引用"></a>引用</h2><blockquote>
 <p><em>一盏灯</em>， 一片昏黄； <strong>一简书</strong>， 一杯淡茶。 守着那一份淡定， 品读属于自己的寂寞。 保持淡定， 才能欣赏到最美丽的风景！ 保持淡定， 人生从此不再寂寞。</p>
 </blockquote>
 <h2 id="代码引用"><a href="#代码引用" class="headerlink" title="代码引用"></a>代码引用</h2><p><code>hello world</code><br>多段代码引用<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">第一段代码</div><div class="line">第二段代码</div><div class="line">第三段代码</div></pre></td></tr></table></figure></p>
@@ -130,8 +131,7 @@ end tell
     
     <summary type="html">
     
-      &lt;h2 id=&quot;引用&quot;&gt;&lt;a href=&quot;#引用&quot; class=&quot;headerlink&quot; title=&quot;引用&quot;&gt;&lt;/a&gt;引用&lt;/h2&gt;&lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;一盏灯&lt;/em&gt;， 一片昏黄； &lt;strong&gt;一简书&lt;/strong&gt;， 一杯淡茶。 守着那一份淡定， 
+      &lt;p&gt;记录下Markdown语法。&lt;br&gt;
     
     </summary>
     
