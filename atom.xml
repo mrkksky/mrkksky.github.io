@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-04-19T13:14:17.732Z</updated>
+  <updated>2017-04-21T09:16:45.108Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,11 +20,14 @@
     <link href="http://yoursite.com/2017/04/19/%E5%A5%BD%E4%B9%85%E4%B8%8D%E8%A7%81-%E5%BE%90%E5%BF%97%E6%91%A9/"/>
     <id>http://yoursite.com/2017/04/19/好久不见-徐志摩/</id>
     <published>2017-04-19T12:59:35.288Z</published>
-    <updated>2017-04-19T13:14:17.732Z</updated>
+    <updated>2017-04-21T09:16:45.108Z</updated>
     
-    <content type="html"><![CDATA[<p>有没有一首诗能够直击你的内心。<br><a id="more"></a> </p>
+    <content type="html"><![CDATA[<p>有没有一首诗能够直击你的内心。</p>
 <blockquote>
 <p>一生至少该有一次，<br>为了某个人而忘了自己，<br>不求有结果，不求同行，<br>不求曾经拥有，<br>甚至不求你爱我，<br>只求在我最美的年华里，<br>遇到你。</p>
+</blockquote>
+<a id="more"></a> 
+<blockquote>
 <p>幸好爱情不是一切，<br>幸好一切都不是爱情。<br>最解脱的莫过於心死了，<br>可是要心死，<br>非得要经过心碎。<br>这心碎……<br>就没法形容给你听了。</p>
 <p>一个人的世界，很安静，<br>安静的可以听到自己的<br>呼吸声和心跳声。<br>我的世界太过安静，<br>静得可以听见自己心跳的声音。<br>心房的血液慢慢流回心室，<br>如此这般的轮回。</p>
 <p>他的世界没有她，<br>她的世界只有他。<br>世界就是这样，<br>从来没有公平可言。<br>这是一场没有时限的角力战，<br>谁在乎的越多，就输的越惨。</p>
@@ -37,7 +40,10 @@
     
     <summary type="html">
     
-      &lt;p&gt;有没有一首诗能够直击你的内心。&lt;br&gt;
+      &lt;p&gt;有没有一首诗能够直击你的内心。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;一生至少该有一次，&lt;br&gt;为了某个人而忘了自己，&lt;br&gt;不求有结果，不求同行，&lt;br&gt;不求曾经拥有，&lt;br&gt;甚至不求你爱我，&lt;br&gt;只求在我最美的年华里，&lt;br&gt;遇到你。&lt;/p&gt;
+&lt;/blockquote&gt;
     
     </summary>
     
