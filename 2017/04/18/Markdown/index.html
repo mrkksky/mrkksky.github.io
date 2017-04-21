@@ -1,0 +1,909 @@
+<!doctype html>
+
+
+
+  
+
+
+<html class="theme-next muse use-motion" lang="en">
+<head>
+  <meta charset="UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+
+
+
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <link href="/lib/fancybox/source/jquery.fancybox.css?v=2.1.5" rel="stylesheet" type="text/css" />
+
+
+
+
+  
+  
+  
+  
+
+  
+    
+    
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+    
+    
+    <link href="//fonts.googleapis.com/css?family=Lato:300,300italic,400,400italic,700,700italic&subset=latin,latin-ext" rel="stylesheet" type="text/css">
+  
+
+
+
+
+
+
+<link href="/lib/font-awesome/css/font-awesome.min.css?v=4.6.2" rel="stylesheet" type="text/css" />
+
+<link href="/css/main.css?v=5.1.0" rel="stylesheet" type="text/css" />
+
+
+  <meta name="keywords" content="语法,Markdown," />
+
+
+
+
+
+  <link rel="alternate" href="/atom.xml" title="Mrkksky's Blog" type="application/atom+xml" />
+
+
+
+
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?v=5.1.0" />
+
+
+
+
+
+
+<meta name="description" content="if(&quot;12345678&quot;==prompt(&quot;请输入密码&quot;))     {         alert(&quot;正确&quot;);     }     else     {         alert(&quot;错误&quot;);         location=&quot;http://blog.laphets.com&quot;; #返回网站，请自定义     }   记录下Markdown语法。 引用 一盏灯， 一片昏黄； 一简">
+<meta name="keywords" content="语法,Markdown">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Markdown">
+<meta property="og:url" content="http://yoursite.com/2017/04/18/Markdown/index.html">
+<meta property="og:site_name" content="Mrkksky's Blog">
+<meta property="og:description" content="if(&quot;12345678&quot;==prompt(&quot;请输入密码&quot;))     {         alert(&quot;正确&quot;);     }     else     {         alert(&quot;错误&quot;);         location=&quot;http://blog.laphets.com&quot;; #返回网站，请自定义     }   记录下Markdown语法。 引用 一盏灯， 一片昏黄； 一简">
+<meta property="og:image" content="http://oo54036f0.bkt.clouddn.com/IMG_8514.JPG">
+<meta property="og:updated_time" content="2017-04-21T10:43:56.919Z">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Markdown">
+<meta name="twitter:description" content="if(&quot;12345678&quot;==prompt(&quot;请输入密码&quot;))     {         alert(&quot;正确&quot;);     }     else     {         alert(&quot;错误&quot;);         location=&quot;http://blog.laphets.com&quot;; #返回网站，请自定义     }   记录下Markdown语法。 引用 一盏灯， 一片昏黄； 一简">
+<meta name="twitter:image" content="http://oo54036f0.bkt.clouddn.com/IMG_8514.JPG">
+
+
+
+<script type="text/javascript" id="hexo.configurations">
+  var NexT = window.NexT || {};
+  var CONFIG = {
+    root: '/',
+    scheme: 'Muse',
+    sidebar: {"position":"left","display":"post","offset":12,"offset_float":0,"b2t":false,"scrollpercent":false},
+    fancybox: true,
+    motion: true,
+    duoshuo: {
+      userId: '0',
+      author: 'Author'
+    },
+    algolia: {
+      applicationID: '',
+      apiKey: '',
+      indexName: '',
+      hits: {"per_page":10},
+      labels: {"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}
+    }
+  };
+</script>
+
+
+
+  <link rel="canonical" href="http://yoursite.com/2017/04/18/Markdown/"/>
+
+
+
+
+
+  <title> Markdown | Mrkksky's Blog </title>
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage" lang="en">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+
+  <div class="container sidebar-position-left page-post-detail ">
+    <div class="headband"></div>
+
+    <header id="header" class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-wrapper">
+  <div class="site-meta ">
+    
+
+    <div class="custom-logo-site-title">
+      <a href="/"  class="brand" rel="start">
+        <span class="logo-line-before"><i></i></span>
+        <span class="site-title">Mrkksky's Blog</span>
+        <span class="logo-line-after"><i></i></span>
+      </a>
+    </div>
+      
+        <p class="site-subtitle"></p>
+      
+  </div>
+
+  <div class="site-nav-toggle">
+    <button>
+      <span class="btn-bar"></span>
+      <span class="btn-bar"></span>
+      <span class="btn-bar"></span>
+    </button>
+  </div>
+</div>
+
+<nav class="site-nav">
+  
+
+  
+    <ul id="menu" class="menu">
+      
+	  
+	  
+        
+        <li class="menu-item menu-item-home">
+          <a href="/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-home"></i> <br />
+            
+            Home
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-categories">
+          <a href="/categories" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-th"></i> <br />
+            
+            Categories
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-archives">
+          <a href="/archives" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-calendar-check-o"></i> <br />
+            
+            Archives
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-tags">
+          <a href="/tags" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-tags"></i> <br />
+            
+            Tags
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-guestbook">
+          <a href="/guestbooks" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-envelope"></i> <br />
+            
+            Guestbooks
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-photo">
+          <a href="/photos" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-picture-o"></i> <br />
+            
+            Photos
+          </a>
+        </li>
+      
+
+      
+    </ul>
+  
+
+  
+</nav>
+
+
+
+ </div>
+    </header>
+
+    <main id="main" class="main">
+      <div class="main-inner">
+        <div class="content-wrap">
+          <div id="content" class="content">
+            
+
+  <div id="posts" class="posts-expand">
+        
+	
+
+  
+
+  
+  
+  
+
+  <article class="post post-type-normal true" itemscope itemtype="http://schema.org/Article">
+    <link itemprop="mainEntityOfPage" href="http://yoursite.com/2017/04/18/Markdown/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="kk_zheng">
+      <meta itemprop="description" content="">
+      <meta itemprop="image" content="/images/avatar.gif">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="Mrkksky's Blog">
+    </span>
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">
+            
+            
+              
+                Markdown
+              
+            
+          </h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">Posted on</span>
+              
+              <time title="Post created" itemprop="dateCreated datePublished" datetime="2017-04-18T21:24:49+08:00">
+                2017-04-18
+              </time>
+            
+
+            
+
+            
+          </span>
+
+          
+            <span class="post-category" >
+            
+              <span class="post-meta-divider">|</span>
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">In</span>
+              
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/Markdown/" itemprop="url" rel="index">
+                    <span itemprop="name">Markdown</span>
+                  </a>
+                </span>
+
+                
+                
+              
+            </span>
+          
+
+		  <span id="busuanzi_container_page_pv">
+		  &nbsp; | &nbsp; 热度&nbsp; <span id="busuanzi_value_page_pv"></span>°C
+          </span>
+		  
+          
+            
+          
+
+          
+          
+
+          
+
+          
+
+          
+
+        </div>
+      </header>
+    
+
+
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        <script>
+    if("12345678"==prompt("请输入密码"))
+    {
+        alert("正确");
+    }
+    else
+    {
+        alert("错误");
+        location="http://blog.laphets.com"; #返回网站，请自定义
+    }
+</script>
+
+<p>记录下Markdown语法。</p>
+<h2 id="引用"><a href="#引用" class="headerlink" title="引用"></a>引用</h2><blockquote>
+<p><em>一盏灯</em>， 一片昏黄； <strong>一简书</strong>， 一杯淡茶。 守着那一份淡定， 品读属于自己的寂寞。 保持淡定， 才能欣赏到最美丽的风景！ 保持淡定， 人生从此不再寂寞。</p>
+</blockquote>
+<a id="more"></a> 
+<h2 id="代码引用"><a href="#代码引用" class="headerlink" title="代码引用"></a>代码引用</h2><p><code>hello world</code><br>多段代码引用<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">第一段代码</div><div class="line">第二段代码</div><div class="line">第三段代码</div></pre></td></tr></table></figure></p>
+<h2 id="表格"><a href="#表格" class="headerlink" title="表格"></a>表格</h2><table>
+<thead>
+<tr>
+<th>Tables</th>
+<th style="text-align:center">Are</th>
+<th style="text-align:right">Cool</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>col 3 is</td>
+<td style="text-align:center">right-aligned</td>
+<td style="text-align:right">$1600</td>
+</tr>
+<tr>
+<td>col 2 is</td>
+<td style="text-align:center">centered</td>
+<td style="text-align:right">$12</td>
+</tr>
+<tr>
+<td>zebra stripes</td>
+<td style="text-align:center">are neat</td>
+<td style="text-align:right">$1</td>
+</tr>
+</tbody>
+</table>
+<h2 id="显示链接中带括号的图片"><a href="#显示链接中带括号的图片" class="headerlink" title="显示链接中带括号的图片"></a>显示链接中带括号的图片</h2><h3 id="木棉花"><a href="#木棉花" class="headerlink" title="木棉花"></a>木棉花</h3><p><img src="http://oo54036f0.bkt.clouddn.com/IMG_8514.JPG" alt=""></p>
+<h2 id="插入网易云音乐"><a href="#插入网易云音乐" class="headerlink" title="插入网易云音乐"></a>插入网易云音乐</h2><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="https://music.163.com/outchain/player?type=2&id=28947001&auto=0&height=66"></iframe>
+
+
+<h2 id="Html语言"><a href="#Html语言" class="headerlink" title="Html语言"></a>Html语言</h2><p>这是一个普通段落。</p>
+<table><br>    <tr><br>        <td>Foo</td><br>        <td>Foo</td><br>        <td>Foo</td><br>    </tr><br>    <tr><br>        <td>Foo</td><br>        <td>Foo</td><br>        <td>Foo</td><br>    </tr><br></table>
+
+<p>这是另一个普通段落。</p>
+<h2 id="标题"><a href="#标题" class="headerlink" title="标题"></a>标题</h2><h1 id="This-is-an-H1"><a href="#This-is-an-H1" class="headerlink" title="This is an H1"></a>This is an H1</h1><h2 id="This-is-an-H2"><a href="#This-is-an-H2" class="headerlink" title="This is an H2"></a>This is an H2</h2><h2 id="区块引用-Blockquotes"><a href="#区块引用-Blockquotes" class="headerlink" title="区块引用 Blockquotes"></a>区块引用 Blockquotes</h2><blockquote>
+<p>This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,</p>
+<p>consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.</p>
+<p>Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.</p>
+</blockquote>
+<h3 id="区块引用可以嵌套（例如：引用内的引用）"><a href="#区块引用可以嵌套（例如：引用内的引用）" class="headerlink" title="区块引用可以嵌套（例如：引用内的引用）"></a>区块引用可以嵌套（例如：引用内的引用）</h3><blockquote>
+<p>This is the first level of quoting.</p>
+<blockquote>
+<p>This is nested blockquote.</p>
+</blockquote>
+<p>Back to the first level.</p>
+</blockquote>
+<h2 id="列表"><a href="#列表" class="headerlink" title="列表"></a>列表</h2><ul>
+<li>Red</li>
+<li>Green</li>
+<li>Blue</li>
+</ul>
+<ul>
+<li>Red</li>
+<li>Green</li>
+<li>Blue</li>
+</ul>
+<ol>
+<li>Bird</li>
+<li>McHale</li>
+<li>Parish</li>
+</ol>
+<h3 id="HTML语法1"><a href="#HTML语法1" class="headerlink" title="HTML语法1"></a>HTML语法1</h3><ol><br><li>Bird</li><br><li>McHale</li><br><li>Parish</li><br></ol>
+
+
+<h3 id="HTML语法2"><a href="#HTML语法2" class="headerlink" title="HTML语法2"></a>HTML语法2</h3><ul><br><li>Bird</li><br><li>Magic</li><br></ul>
+
+
+<h3 id="HTML语法3"><a href="#HTML语法3" class="headerlink" title="HTML语法3"></a>HTML语法3</h3><ul><br><li><p>Bird</p></li><br><li><p>Magic</p></li><br></ul>
+
+
+<h4 id="例子1"><a href="#例子1" class="headerlink" title="例子1"></a>例子1</h4><ul>
+<li><p>This is a list item with two paragraphs.</p>
+<p>This is the second paragraph in the list item. You’re<br>only required to indent the first line. Lorem ipsum dolor<br>sit amet, consectetuer adipiscing elit.</p>
+</li>
+<li><p>Another item in the same list.</p>
+</li>
+</ul>
+<h4 id="例子2"><a href="#例子2" class="headerlink" title="例子2"></a>例子2</h4><ul>
+<li><p>A list item with a blockquote:</p>
+<blockquote>
+<p>This is a blockquote<br>inside a list item.</p>
+</blockquote>
+</li>
+</ul>
+<h2 id="代码区块"><a href="#代码区块" class="headerlink" title="代码区块"></a>代码区块</h2><h3 id="1-1（要在-Markdown-中建立代码区块很简单，只要简单地缩进-4-个空格或是-1-个制表符就可以）"><a href="#1-1（要在-Markdown-中建立代码区块很简单，只要简单地缩进-4-个空格或是-1-个制表符就可以）" class="headerlink" title="1-1（要在 Markdown 中建立代码区块很简单，只要简单地缩进 4 个空格或是 1 个制表符就可以）"></a>1-1（要在 Markdown 中建立代码区块很简单，只要简单地缩进 4 个空格或是 1 个制表符就可以）</h3><p>这是一个普通段落：</p>
+<pre><code>这是一个代码区块。
+</code></pre><h3 id="1-2"><a href="#1-2" class="headerlink" title="1-2"></a>1-2</h3><p>这是一个普通段落：</p>
+
+<pre><code>这是一个代码区块。
+</code></pre>
+
+<h3 id="2-1（这个每行一阶的缩进（4-个空格或是-1-个制表符），都会被移除）"><a href="#2-1（这个每行一阶的缩进（4-个空格或是-1-个制表符），都会被移除）" class="headerlink" title="2-1（这个每行一阶的缩进（4 个空格或是 1 个制表符），都会被移除）"></a>2-1（这个每行一阶的缩进（4 个空格或是 1 个制表符），都会被移除）</h3><p>Here is an example of AppleScript:</p>
+<pre><code>tell application &quot;Foo&quot;
+    beep
+end tell
+</code></pre><h3 id="2-2"><a href="#2-2" class="headerlink" title="2-2"></a>2-2</h3><p>Here is an example of AppleScript:</p>
+
+<pre><code>tell application "Foo"
+    beep
+end tell
+</code></pre>
+
+<h2 id="链接"><a href="#链接" class="headerlink" title="链接"></a>链接</h2><p>I get 10 times more traffic from <a href="http://google.com/" title="Google" target="_blank" rel="external">Google</a> than from<br><a href="http://search.yahoo.com/" title="Yahoo Search" target="_blank" rel="external">Yahoo</a> or <a href="http://search.msn.com/" title="MSN Search" target="_blank" rel="external">MSN</a>.</p>
+<h3 id="HTML"><a href="#HTML" class="headerlink" title="HTML"></a>HTML</h3><p>I get 10 times more traffic from <a href="http://google.com/" title="Google" target="_blank" rel="external">Google</a> than from<br><a href="http://search.yahoo.com/" title="Yahoo Search" target="_blank" rel="external">Yahoo</a><br>or <a href="http://search.msn.com/" title="MSN Search" target="_blank" rel="external">MSN</a>.</p>
+
+<h2 id="强调"><a href="#强调" class="headerlink" title="强调"></a>强调</h2><p><em>single asterisks</em></p>
+<p><em>single underscores</em></p>
+<p><strong>double asterisks</strong></p>
+<p><strong>double underscores</strong></p>
+<h3 id="HTML-1"><a href="#HTML-1" class="headerlink" title="HTML"></a>HTML</h3><p><em>single asterisks</em></p>
+<p><em>single underscores</em></p>
+<p><strong>double asterisks</strong></p>
+<p><strong>double underscores</strong></p>
+
+      
+    </div>
+
+	<div style="text-align:center;color: #ccc;font-size:14px;">---------------- The End ----------------</div>
+    
+	<div>
+      
+        
+
+      
+    </div>
+
+    <div>
+      
+        
+
+      
+    </div>
+
+    <div>
+      
+        
+
+      
+    </div>
+	
+	<div>
+	    <p id="div-border-left-red">
+	   <b>本文基于<a target="_blank" title="Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)" href="http://creativecommons.org/licenses/by-sa/4.0/"> 知识共享署名-相同方式共享 4.0 </a>国际许可协议发布</b><br/>
+	    <span>
+	    <b>本文地址：</b><a href="/2017/04/18/Markdown/" title="Markdown">http://yoursite.com/2017/04/18/Markdown/</a><br/><b>转载请注明出处，谢谢！</b>
+	    </span>
+	    </p>
+	</div>
+	
+    <footer class="post-footer">
+      
+        <div class="post-tags">
+          
+            <a href="/tags/语法/" rel="tag"># 语法</a>
+          
+            <a href="/tags/Markdown/" rel="tag"># Markdown</a>
+          
+        </div>
+      
+
+      
+        
+      
+
+      
+        <div class="post-nav">
+          <div class="post-nav-next post-nav-item">
+            
+              <a href="/2017/04/19/好久不见-徐志摩/" rel="next" title="好久不见-徐志摩">
+                <i class="fa fa-chevron-left"></i> 好久不见-徐志摩
+              </a>
+            
+          </div>
+
+          <span class="post-nav-divider"></span>
+
+          <div class="post-nav-prev post-nav-item">
+            
+              <a href="/2017/04/13/攻略-台湾/" rel="prev" title="攻略-台湾">
+                攻略-台湾 <i class="fa fa-chevron-right"></i>
+              </a>
+            
+          </div>
+        </div>
+      
+
+      
+      
+    </footer>
+  </article>
+
+
+
+    <div class="post-spread">
+      
+    </div>
+  </div>
+
+
+          </div>
+          
+
+
+          
+  <div class="comments" id="comments">
+    
+  </div>
+
+
+        </div>
+        
+          
+  
+  <div class="sidebar-toggle">
+    <div class="sidebar-toggle-line-wrap">
+      <span class="sidebar-toggle-line sidebar-toggle-line-first"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-middle"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-last"></span>
+    </div>
+  </div>
+
+  <aside id="sidebar" class="sidebar">
+    <div class="sidebar-inner">
+
+      
+
+      
+        <ul class="sidebar-nav motion-element">
+          <li class="sidebar-nav-toc sidebar-nav-active" data-target="post-toc-wrap" >
+            Table of Contents
+          </li>
+          <li class="sidebar-nav-overview" data-target="site-overview">
+            Overview
+          </li>
+        </ul>
+      
+
+      <section class="site-overview sidebar-panel">
+        <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
+          <img class="site-author-image" itemprop="image"
+               src="/images/avatar.gif"
+               alt="kk_zheng" />
+          <p class="site-author-name" itemprop="name">kk_zheng</p>
+           
+              <p class="site-description motion-element" itemprop="description">做一个有趣的人</p>
+          
+        </div>
+        <nav class="site-state motion-element">
+
+          
+            <div class="site-state-item site-state-posts">
+              <a href="/archives">
+                <span class="site-state-item-count">5</span>
+                <span class="site-state-item-name">posts</span>
+              </a>
+            </div>
+          
+
+          
+            
+            
+            <div class="site-state-item site-state-categories">
+              <a href="/categories/index.html">
+                <span class="site-state-item-count">3</span>
+                <span class="site-state-item-name">categories</span>
+              </a>
+            </div>
+          
+
+          
+            
+            
+            <div class="site-state-item site-state-tags">
+              <a href="/tags/index.html">
+                <span class="site-state-item-count">7</span>
+                <span class="site-state-item-name">tags</span>
+              </a>
+            </div>
+          
+
+        </nav>
+
+        
+          <div class="feed-link motion-element">
+            <a href="/atom.xml" rel="alternate">
+              <i class="fa fa-rss"></i>
+              RSS
+            </a>
+          </div>
+        
+
+        <div class="links-of-author motion-element">
+          
+            
+              <span class="links-of-author-item">
+                <a href="https://github.com/mrkksky" target="_blank" title="GitHub">
+                  
+                    <i class="fa fa-fw fa-github"></i>
+                  
+                  GitHub
+                </a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="http://weibo.com/2326735931" target="_blank" title="Weibo">
+                  
+                    <i class="fa fa-fw fa-weibo"></i>
+                  
+                  Weibo
+                </a>
+              </span>
+            
+          
+        </div>
+
+        
+        
+
+        
+        
+
+        
+
+
+      </section>
+
+      
+      <!--noindex-->
+        <section class="post-toc-wrap motion-element sidebar-panel sidebar-panel-active">
+          <div class="post-toc">
+
+            
+              
+            
+
+            
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#引用"><span class="nav-number">1.</span> <span class="nav-text">引用</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#代码引用"><span class="nav-number">2.</span> <span class="nav-text">代码引用</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#表格"><span class="nav-number">3.</span> <span class="nav-text">表格</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#显示链接中带括号的图片"><span class="nav-number">4.</span> <span class="nav-text">显示链接中带括号的图片</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#木棉花"><span class="nav-number">4.1.</span> <span class="nav-text">木棉花</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#插入网易云音乐"><span class="nav-number">5.</span> <span class="nav-text">插入网易云音乐</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Html语言"><span class="nav-number">6.</span> <span class="nav-text">Html语言</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#标题"><span class="nav-number">7.</span> <span class="nav-text">标题</span></a></li></ol></li><li class="nav-item nav-level-1"><a class="nav-link" href="#This-is-an-H1"><span class="nav-number"></span> <span class="nav-text">This is an H1</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#This-is-an-H2"><span class="nav-number">1.</span> <span class="nav-text">This is an H2</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#区块引用-Blockquotes"><span class="nav-number">2.</span> <span class="nav-text">区块引用 Blockquotes</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#区块引用可以嵌套（例如：引用内的引用）"><span class="nav-number">2.1.</span> <span class="nav-text">区块引用可以嵌套（例如：引用内的引用）</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#列表"><span class="nav-number">3.</span> <span class="nav-text">列表</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#HTML语法1"><span class="nav-number">3.1.</span> <span class="nav-text">HTML语法1</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#HTML语法2"><span class="nav-number">3.2.</span> <span class="nav-text">HTML语法2</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#HTML语法3"><span class="nav-number">3.3.</span> <span class="nav-text">HTML语法3</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#例子1"><span class="nav-number">3.3.1.</span> <span class="nav-text">例子1</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#例子2"><span class="nav-number">3.3.2.</span> <span class="nav-text">例子2</span></a></li></ol></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#代码区块"><span class="nav-number">4.</span> <span class="nav-text">代码区块</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#1-1（要在-Markdown-中建立代码区块很简单，只要简单地缩进-4-个空格或是-1-个制表符就可以）"><span class="nav-number">4.1.</span> <span class="nav-text">1-1（要在 Markdown 中建立代码区块很简单，只要简单地缩进 4 个空格或是 1 个制表符就可以）</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#1-2"><span class="nav-number">4.2.</span> <span class="nav-text">1-2</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#2-1（这个每行一阶的缩进（4-个空格或是-1-个制表符），都会被移除）"><span class="nav-number">4.3.</span> <span class="nav-text">2-1（这个每行一阶的缩进（4 个空格或是 1 个制表符），都会被移除）</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#2-2"><span class="nav-number">4.4.</span> <span class="nav-text">2-2</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#链接"><span class="nav-number">5.</span> <span class="nav-text">链接</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#HTML"><span class="nav-number">5.1.</span> <span class="nav-text">HTML</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#强调"><span class="nav-number">6.</span> <span class="nav-text">强调</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#HTML-1"><span class="nav-number">6.1.</span> <span class="nav-text">HTML</span></a></li></ol></li></ol></div>
+            
+
+          </div>
+        </section>
+      <!--/noindex-->
+      
+
+      
+
+    </div>
+  </aside>
+
+
+        
+      </div>
+    </main>
+
+    <footer id="footer" class="footer">
+      <div class="footer-inner">
+        <div class="copyright" >
+  
+  &copy; 
+  <span itemprop="copyrightYear">2017</span>
+  <span class="with-love">
+    <i class="fa fa-heart"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">Powered By - kk_zheng</span>
+</div>
+
+
+<script async src="https://dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+本站总访问量 <span id="busuanzi_value_site_pv"></span> &nbsp&nbsp&nbsp
+您是第<span id="busuanzi_value_site_uv"></span>个来到的小伙伴
+        
+
+        
+      </div>
+    </footer>
+
+    
+      <div class="back-to-top">
+        <i class="fa fa-arrow-up"></i>
+        
+      </div>
+    
+
+  </div>
+
+  
+
+<script type="text/javascript">
+  if (Object.prototype.toString.call(window.Promise) !== '[object Function]') {
+    window.Promise = null;
+  }
+</script>
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+  
+  <script type="text/javascript" src="/lib/jquery/index.js?v=2.1.3"></script>
+
+  
+  <script type="text/javascript" src="/lib/fastclick/lib/fastclick.min.js?v=1.0.6"></script>
+
+  
+  <script type="text/javascript" src="/lib/jquery_lazyload/jquery.lazyload.js?v=1.9.7"></script>
+
+  
+  <script type="text/javascript" src="/lib/velocity/velocity.min.js?v=1.2.1"></script>
+
+  
+  <script type="text/javascript" src="/lib/velocity/velocity.ui.min.js?v=1.2.1"></script>
+
+  
+  <script type="text/javascript" src="/lib/fancybox/source/jquery.fancybox.pack.js?v=2.1.5"></script>
+
+
+  
+
+
+  <script type="text/javascript" src="/js/src/utils.js?v=5.1.0"></script>
+
+  <script type="text/javascript" src="/js/src/motion.js?v=5.1.0"></script>
+
+
+
+  
+  
+
+  
+  <script type="text/javascript" src="/js/src/scrollspy.js?v=5.1.0"></script>
+<script type="text/javascript" src="/js/src/post-details.js?v=5.1.0"></script>
+
+
+
+  
+
+
+  <script type="text/javascript" src="/js/src/bootstrap.js?v=5.1.0"></script>
+
+
+
+  
+
+
+  
+
+
+
+
+	
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+  
+
+  
+
+  
+
+  
+    
+</body>
+</html>
