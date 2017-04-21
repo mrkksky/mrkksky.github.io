@@ -1,41 +1,271 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search>
+<search> 
   
     
     <entry>
       <title><![CDATA[好久不见-徐志摩]]></title>
-      <url>%2F2017%2F04%2F19%2F%E5%A5%BD%E4%B9%85%E4%B8%8D%E8%A7%81-%E5%BE%90%E5%BF%97%E6%91%A9%2F</url>
-      <content type="text"><![CDATA[有没有一首诗能够直击你的内心。 一生至少该有一次，为了某个人而忘了自己，不求有结果，不求同行，不求曾经拥有，甚至不求你爱我，只求在我最美的年华里，遇到你。 幸好爱情不是一切，幸好一切都不是爱情。最解脱的莫过於心死了，可是要心死，非得要经过心碎。这心碎……就没法形容给你听了。 一个人的世界，很安静，安静的可以听到自己的呼吸声和心跳声。我的世界太过安静，静得可以听见自己心跳的声音。心房的血液慢慢流回心室，如此这般的轮回。 他的世界没有她，她的世界只有他。世界就是这样，从来没有公平可言。这是一场没有时限的角力战，谁在乎的越多，就输的越惨。 立冬、小雪、大雪、冬至、小寒、大寒。在无法遇见第二个寂寞的人的寂寞冬天。独自行走独自唱歌独自逛街独自看着一整个世界狂欢。人们手牵手地逛着游乐园。他是她的独一，我是所有人的无二。世界充满了我们相遇的几率。我却始终无法遇见你。 你会不会忽然的出现，在街角的咖啡店，我会带着笑脸，和你寒暄，不去说从前，只是寒暄，对你说一句，只是说一句，好久不见。]]></content>
-    </entry>
+      <url>/2017/04/19/%E5%A5%BD%E4%B9%85%E4%B8%8D%E8%A7%81-%E5%BE%90%E5%BF%97%E6%91%A9/</url>
+      <content type="html"><![CDATA[<p>有没有一首诗能够直击你的内心。<br><a id="more"></a> </p>
+<blockquote>
+<p>一生至少该有一次，<br>为了某个人而忘了自己，<br>不求有结果，不求同行，<br>不求曾经拥有，<br>甚至不求你爱我，<br>只求在我最美的年华里，<br>遇到你。</p>
+<p>幸好爱情不是一切，<br>幸好一切都不是爱情。<br>最解脱的莫过於心死了，<br>可是要心死，<br>非得要经过心碎。<br>这心碎……<br>就没法形容给你听了。</p>
+<p>一个人的世界，很安静，<br>安静的可以听到自己的<br>呼吸声和心跳声。<br>我的世界太过安静，<br>静得可以听见自己心跳的声音。<br>心房的血液慢慢流回心室，<br>如此这般的轮回。</p>
+<p>他的世界没有她，<br>她的世界只有他。<br>世界就是这样，<br>从来没有公平可言。<br>这是一场没有时限的角力战，<br>谁在乎的越多，就输的越惨。</p>
+<p>立冬、小雪、大雪、<br>冬至、小寒、大寒。<br>在无法遇见第二个<br>寂寞的人的寂寞冬天。<br>独自行走独自唱歌独自逛街<br>独自看着一整个世界狂欢。<br>人们手牵手地逛着游乐园。<br>他是她的独一，我是所有人的无二。<br>世界充满了我们相遇的几率。<br>我却始终无法遇见你。</p>
+<p>你会不会忽然的出现，<br>在街角的咖啡店，<br>我会带着笑脸，和你寒暄，<br>不去说从前，只是寒暄，<br>对你说一句，只是说一句，<br>好久不见。</p>
+</blockquote>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="https://music.163.com/outchain/player?type=2&id=65538&auto=1&height=66"></iframe>
 
+]]></content>
+      
+        <categories>
+            
+            <category> 诗 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> 诗 </tag>
+            
+            <tag> 徐志摩 </tag>
+            
+        </tags>
+        
+    </entry>
     
     <entry>
       <title><![CDATA[Markdown]]></title>
-      <url>%2F2017%2F04%2F18%2FMarkdown%2F</url>
-      <content type="text"><![CDATA[记录下Markdown语法。 引用 一盏灯， 一片昏黄； 一简书， 一杯淡茶。 守着那一份淡定， 品读属于自己的寂寞。 保持淡定， 才能欣赏到最美丽的风景！ 保持淡定， 人生从此不再寂寞。 代码引用hello world多段代码引用123第一段代码第二段代码第三段代码 表格 Tables Are Cool col 3 is right-aligned $1600 col 2 is centered $12 zebra stripes are neat $1 显示链接中带括号的图片木棉花 插入网易云音乐 Html语言这是一个普通段落。 Foo Foo Foo Foo Foo Foo 这是另一个普通段落。 标题This is an H1This is an H2区块引用 Blockquotes This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus. 区块引用可以嵌套（例如：引用内的引用） This is the first level of quoting. This is nested blockquote. Back to the first level. 列表 Red Green Blue Red Green Blue Bird McHale Parish HTML语法1BirdMcHaleParish HTML语法2BirdMagic HTML语法3BirdMagic 例子1 This is a list item with two paragraphs. This is the second paragraph in the list item. You’reonly required to indent the first line. Lorem ipsum dolorsit amet, consectetuer adipiscing elit. Another item in the same list. 例子2 A list item with a blockquote: This is a blockquoteinside a list item. 代码区块1-1（要在 Markdown 中建立代码区块很简单，只要简单地缩进 4 个空格或是 1 个制表符就可以）这是一个普通段落： 这是一个代码区块。 1-2这是一个普通段落： 这是一个代码区块。 2-1（这个每行一阶的缩进（4 个空格或是 1 个制表符），都会被移除）Here is an example of AppleScript: tell application &quot;Foo&quot; beep end tell 2-2Here is an example of AppleScript: tell application "Foo" beep end tell 链接I get 10 times more traffic from Google than fromYahoo or MSN. HTMLI get 10 times more traffic from Google than fromYahooor MSN. 强调single asterisks single underscores double asterisks double underscores HTMLsingle asterisks single underscores double asterisks double underscores]]></content>
-    </entry>
+      <url>/2017/04/18/Markdown/</url>
+      <content type="html"><![CDATA[<p>记录下Markdown语法。</p>
+<h2 id="引用"><a href="#引用" class="headerlink" title="引用"></a>引用</h2><blockquote>
+<p><em>一盏灯</em>， 一片昏黄； <strong>一简书</strong>， 一杯淡茶。 守着那一份淡定， 品读属于自己的寂寞。 保持淡定， 才能欣赏到最美丽的风景！ 保持淡定， 人生从此不再寂寞。</p>
+</blockquote>
+<a id="more"></a> 
+<h2 id="代码引用"><a href="#代码引用" class="headerlink" title="代码引用"></a>代码引用</h2><p><code>hello world</code><br>多段代码引用<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">第一段代码</div><div class="line">第二段代码</div><div class="line">第三段代码</div></pre></td></tr></table></figure></p>
+<h2 id="表格"><a href="#表格" class="headerlink" title="表格"></a>表格</h2><table>
+<thead>
+<tr>
+<th>Tables</th>
+<th style="text-align:center">Are</th>
+<th style="text-align:right">Cool</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>col 3 is</td>
+<td style="text-align:center">right-aligned</td>
+<td style="text-align:right">$1600</td>
+</tr>
+<tr>
+<td>col 2 is</td>
+<td style="text-align:center">centered</td>
+<td style="text-align:right">$12</td>
+</tr>
+<tr>
+<td>zebra stripes</td>
+<td style="text-align:center">are neat</td>
+<td style="text-align:right">$1</td>
+</tr>
+</tbody>
+</table>
+<h2 id="显示链接中带括号的图片"><a href="#显示链接中带括号的图片" class="headerlink" title="显示链接中带括号的图片"></a>显示链接中带括号的图片</h2><h3 id="木棉花"><a href="#木棉花" class="headerlink" title="木棉花"></a>木棉花</h3><p><img src="http://oo54036f0.bkt.clouddn.com/IMG_8514.JPG" alt=""></p>
+<h2 id="插入网易云音乐"><a href="#插入网易云音乐" class="headerlink" title="插入网易云音乐"></a>插入网易云音乐</h2><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="https://music.163.com/outchain/player?type=2&id=28947001&auto=0&height=66"></iframe>
 
+
+<h2 id="Html语言"><a href="#Html语言" class="headerlink" title="Html语言"></a>Html语言</h2><p>这是一个普通段落。</p>
+<table><br>    <tr><br>        <td>Foo</td><br>        <td>Foo</td><br>        <td>Foo</td><br>    </tr><br>    <tr><br>        <td>Foo</td><br>        <td>Foo</td><br>        <td>Foo</td><br>    </tr><br></table>
+
+<p>这是另一个普通段落。</p>
+<h2 id="标题"><a href="#标题" class="headerlink" title="标题"></a>标题</h2><h1 id="This-is-an-H1"><a href="#This-is-an-H1" class="headerlink" title="This is an H1"></a>This is an H1</h1><h2 id="This-is-an-H2"><a href="#This-is-an-H2" class="headerlink" title="This is an H2"></a>This is an H2</h2><h2 id="区块引用-Blockquotes"><a href="#区块引用-Blockquotes" class="headerlink" title="区块引用 Blockquotes"></a>区块引用 Blockquotes</h2><blockquote>
+<p>This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,</p>
+<p>consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.</p>
+<p>Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.</p>
+</blockquote>
+<h3 id="区块引用可以嵌套（例如：引用内的引用）"><a href="#区块引用可以嵌套（例如：引用内的引用）" class="headerlink" title="区块引用可以嵌套（例如：引用内的引用）"></a>区块引用可以嵌套（例如：引用内的引用）</h3><blockquote>
+<p>This is the first level of quoting.</p>
+<blockquote>
+<p>This is nested blockquote.</p>
+</blockquote>
+<p>Back to the first level.</p>
+</blockquote>
+<h2 id="列表"><a href="#列表" class="headerlink" title="列表"></a>列表</h2><ul>
+<li>Red</li>
+<li>Green</li>
+<li>Blue</li>
+</ul>
+<ul>
+<li>Red</li>
+<li>Green</li>
+<li>Blue</li>
+</ul>
+<ol>
+<li>Bird</li>
+<li>McHale</li>
+<li>Parish</li>
+</ol>
+<h3 id="HTML语法1"><a href="#HTML语法1" class="headerlink" title="HTML语法1"></a>HTML语法1</h3><ol><br><li>Bird</li><br><li>McHale</li><br><li>Parish</li><br></ol>
+
+
+<h3 id="HTML语法2"><a href="#HTML语法2" class="headerlink" title="HTML语法2"></a>HTML语法2</h3><ul><br><li>Bird</li><br><li>Magic</li><br></ul>
+
+
+<h3 id="HTML语法3"><a href="#HTML语法3" class="headerlink" title="HTML语法3"></a>HTML语法3</h3><ul><br><li><p>Bird</p></li><br><li><p>Magic</p></li><br></ul>
+
+
+<h4 id="例子1"><a href="#例子1" class="headerlink" title="例子1"></a>例子1</h4><ul>
+<li><p>This is a list item with two paragraphs.</p>
+<p>This is the second paragraph in the list item. You’re<br>only required to indent the first line. Lorem ipsum dolor<br>sit amet, consectetuer adipiscing elit.</p>
+</li>
+<li><p>Another item in the same list.</p>
+</li>
+</ul>
+<h4 id="例子2"><a href="#例子2" class="headerlink" title="例子2"></a>例子2</h4><ul>
+<li><p>A list item with a blockquote:</p>
+<blockquote>
+<p>This is a blockquote<br>inside a list item.</p>
+</blockquote>
+</li>
+</ul>
+<h2 id="代码区块"><a href="#代码区块" class="headerlink" title="代码区块"></a>代码区块</h2><h3 id="1-1（要在-Markdown-中建立代码区块很简单，只要简单地缩进-4-个空格或是-1-个制表符就可以）"><a href="#1-1（要在-Markdown-中建立代码区块很简单，只要简单地缩进-4-个空格或是-1-个制表符就可以）" class="headerlink" title="1-1（要在 Markdown 中建立代码区块很简单，只要简单地缩进 4 个空格或是 1 个制表符就可以）"></a>1-1（要在 Markdown 中建立代码区块很简单，只要简单地缩进 4 个空格或是 1 个制表符就可以）</h3><p>这是一个普通段落：</p>
+<pre><code>这是一个代码区块。
+</code></pre><h3 id="1-2"><a href="#1-2" class="headerlink" title="1-2"></a>1-2</h3><p>这是一个普通段落：</p>
+
+<pre><code>这是一个代码区块。
+</code></pre>
+
+<h3 id="2-1（这个每行一阶的缩进（4-个空格或是-1-个制表符），都会被移除）"><a href="#2-1（这个每行一阶的缩进（4-个空格或是-1-个制表符），都会被移除）" class="headerlink" title="2-1（这个每行一阶的缩进（4 个空格或是 1 个制表符），都会被移除）"></a>2-1（这个每行一阶的缩进（4 个空格或是 1 个制表符），都会被移除）</h3><p>Here is an example of AppleScript:</p>
+<pre><code>tell application &quot;Foo&quot;
+    beep
+end tell
+</code></pre><h3 id="2-2"><a href="#2-2" class="headerlink" title="2-2"></a>2-2</h3><p>Here is an example of AppleScript:</p>
+
+<pre><code>tell application "Foo"
+    beep
+end tell
+</code></pre>
+
+<h2 id="链接"><a href="#链接" class="headerlink" title="链接"></a>链接</h2><p>I get 10 times more traffic from <a href="http://google.com/" title="Google" target="_blank" rel="external">Google</a> than from<br><a href="http://search.yahoo.com/" title="Yahoo Search" target="_blank" rel="external">Yahoo</a> or <a href="http://search.msn.com/" title="MSN Search" target="_blank" rel="external">MSN</a>.</p>
+<h3 id="HTML"><a href="#HTML" class="headerlink" title="HTML"></a>HTML</h3><p>I get 10 times more traffic from <a href="http://google.com/" title="Google" target="_blank" rel="external">Google</a> than from<br><a href="http://search.yahoo.com/" title="Yahoo Search" target="_blank" rel="external">Yahoo</a><br>or <a href="http://search.msn.com/" title="MSN Search" target="_blank" rel="external">MSN</a>.</p>
+
+<h2 id="强调"><a href="#强调" class="headerlink" title="强调"></a>强调</h2><p><em>single asterisks</em></p>
+<p><em>single underscores</em></p>
+<p><strong>double asterisks</strong></p>
+<p><strong>double underscores</strong></p>
+<h3 id="HTML-1"><a href="#HTML-1" class="headerlink" title="HTML"></a>HTML</h3><p><em>single asterisks</em></p>
+<p><em>single underscores</em></p>
+<p><strong>double asterisks</strong></p>
+<p><strong>double underscores</strong></p>
+]]></content>
+      
+        <categories>
+            
+            <category> Markdown </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> 语法 </tag>
+            
+            <tag> Markdown </tag>
+            
+        </tags>
+        
+    </entry>
     
     <entry>
       <title><![CDATA[攻略-台湾]]></title>
-      <url>%2F2017%2F04%2F13%2F%E6%94%BB%E7%95%A5-%E5%8F%B0%E6%B9%BE%2F</url>
-      <content type="text"><![CDATA[毕业旅游之台湾，提前规划下行程。 台北台北是个不夜城，夜市，充满活力。新北市：九份（山城，千与千寻取景）和淡水（渔人码头夜景）101大楼、西门町街头、24小时诚品书店、台北故宫、象山（拍台北夜景）艋钾-台北发展起点，大稻埕-新文化基地，台北东区-最繁华区域，忠孝东路-最贵地段交通：高铁（适合长途）和台铁（适合中短途），地铁叫捷运，买悠游卡阳明山-海芋花，北投温泉景点：北投&amp;士林区—台北博物馆、士林官邸、北投温泉、地热谷、阳明山公园大同&amp;万华区（台北西部）—住宿：台北车站（出行方便）西门町（热闹）建议订在信义区美食：牛肉面夜市：路线：D1:中正纪念堂-自由广场-西门町-西门红楼-信义商圈-台北101D2：北投公园-台北故宫-士林夜市工具：梦想旅行APP 嘉义 阿里山小火车 台南 一府二鹿三艋胛 安平古堡、赤崁楼，花园夜市，孔庙 垦丁 关山夕照（看夕阳）、垦丁大街、龙坑自然生态保护区、鹅銮鼻公园、 住宿：恒春 高雄 美丽岛捷运站、六合夜市、驳二艺术特区]]></content>
-    </entry>
+      <url>/2017/04/13/%E6%94%BB%E7%95%A5-%E5%8F%B0%E6%B9%BE/</url>
+      <content type="html"><![CDATA[<p>  毕业旅游之台湾，提前规划下行程。<br><a id="more"></a> </p>
+<h3 id="台北"><a href="#台北" class="headerlink" title="台北"></a>台北</h3><p>台北是个不夜城，夜市，充满活力。<br>新北市：九份（山城，千与千寻取景）和淡水（渔人码头夜景）<br>101大楼、西门町街头、24小时诚品书店、台北故宫、象山（拍台北夜景）<br>艋钾-台北发展起点，大稻埕-新文化基地，台北东区-最繁华区域，忠孝东路-最贵地段<br>交通：高铁（适合长途）和台铁（适合中短途），地铁叫捷运，买悠游卡<br>阳明山-海芋花，北投温泉<br>景点：<br>北投&amp;士林区—台北博物馆、士林官邸、北投温泉、地热谷、阳明山公园<br>大同&amp;万华区（台北西部）—<br>住宿：<br>台北车站（出行方便）<br>西门町（热闹）<br>建议订在信义区<br>美食：<br>牛肉面<br>夜市：<br>路线：D1:中正纪念堂-自由广场-西门町-西门红楼-信义商圈-台北101<br>D2：北投公园-台北故宫-士林夜市<br>工具：梦想旅行APP</p>
+<h3 id="嘉义"><a href="#嘉义" class="headerlink" title="嘉义"></a>嘉义</h3><p>  阿里山小火车</p>
+<h3 id="台南"><a href="#台南" class="headerlink" title="台南"></a>台南</h3><p>  一府二鹿三艋胛<br>  安平古堡、赤崁楼，花园夜市，孔庙</p>
+<h3 id="垦丁"><a href="#垦丁" class="headerlink" title="垦丁"></a>垦丁</h3><p>  关山夕照（看夕阳）、垦丁大街、龙坑自然生态保护区、鹅銮鼻公园、<br>  住宿：恒春</p>
+<h3 id="高雄"><a href="#高雄" class="headerlink" title="高雄"></a>高雄</h3><p>  美丽岛捷运站、六合夜市、驳二艺术特区</p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="https://music.163.com/outchain/player?type=2&id=29593958&auto=1&height=66"></iframe>
 
+
+
+
+
+]]></content>
+      
+        <categories>
+            
+            <category> travel </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> travel </tag>
+            
+            <tag> TaiBei </tag>
+            
+        </tags>
+        
+    </entry>
     
     <entry>
       <title><![CDATA[广州印象]]></title>
-      <url>%2F2017%2F04%2F09%2F%E5%B9%BF%E5%B7%9E%E5%8D%B0%E8%B1%A1%2F</url>
-      <content type="text"><![CDATA[离校的时间逐渐邻近，自己就要离开待了七年的广州，思来想去想写点什么记录下广州的点滴。 回想起自己初来广州的情景，感觉周围的一切都很新鲜，总喜欢到处走走看看，发现身边的美好。现在快要离开了，要我再游一遍广州…… 历史文化篇中山纪念堂 木棉花 越秀公园-五羊雕像 南越王古墓 陈家祠 沙面 #现代篇 天河体育中心 追风筝的人 珠江新城day 珠江新城night 海心沙 珠江夜色 小蛮腰 摄影师]]></content>
-    </entry>
+      <url>/2017/04/09/%E5%B9%BF%E5%B7%9E%E5%8D%B0%E8%B1%A1/</url>
+      <content type="html"><![CDATA[<p>  离校的时间逐渐邻近，自己就要离开待了七年的广州，思来想去想写点什么记录下广州的点滴。<br><a id="more"></a><br>  回想起自己初来广州的情景，感觉周围的一切都很新鲜，总喜欢到处走走看看，发现身边的美好。现在快要离开了，要我再游一遍广州……</p>
+<h1 id="历史文化篇"><a href="#历史文化篇" class="headerlink" title="历史文化篇"></a>历史文化篇</h1><h2 id="中山纪念堂"><a href="#中山纪念堂" class="headerlink" title="中山纪念堂"></a>中山纪念堂</h2><p><img src="http://oo54036f0.bkt.clouddn.com/IMG_8477.JPG" alt=""></p>
+<h2 id="木棉花"><a href="#木棉花" class="headerlink" title="木棉花"></a>木棉花</h2><p><img src="http://oo54036f0.bkt.clouddn.com/IMG_8514.JPG" alt=""></p>
+<h2 id="越秀公园-五羊雕像"><a href="#越秀公园-五羊雕像" class="headerlink" title="越秀公园-五羊雕像"></a>越秀公园-五羊雕像</h2><p><img src="http://oo54036f0.bkt.clouddn.com/IMG_8555.JPG" alt=""></p>
+<h2 id="南越王古墓"><a href="#南越王古墓" class="headerlink" title="南越王古墓"></a>南越王古墓</h2><p><img src="http://oo54036f0.bkt.clouddn.com/IMG_8569.JPG" alt=""></p>
+<h2 id="陈家祠"><a href="#陈家祠" class="headerlink" title="陈家祠"></a>陈家祠</h2><p><img src="http://oo54036f0.bkt.clouddn.com/IMG_8584.JPG" alt=""></p>
+<h2 id="沙面"><a href="#沙面" class="headerlink" title="沙面"></a>沙面</h2><p><img src="http://oo54036f0.bkt.clouddn.com/IMG_8675.JPG" alt=""></p>
+<p>#现代篇</p>
+<h2 id="天河体育中心"><a href="#天河体育中心" class="headerlink" title="天河体育中心"></a>天河体育中心</h2><p><img src="http://oo54036f0.bkt.clouddn.com/P70404-122251.jpg" alt=""></p>
+<h2 id="追风筝的人"><a href="#追风筝的人" class="headerlink" title="追风筝的人"></a>追风筝的人</h2><p><img src="http://oo54036f0.bkt.clouddn.com/P70404-130501.jpg" alt=""></p>
+<h2 id="珠江新城day"><a href="#珠江新城day" class="headerlink" title="珠江新城day"></a>珠江新城day</h2><p><img src="http://oo54036f0.bkt.clouddn.com/P70404-162045.jpg" alt=""></p>
+<h2 id="珠江新城night"><a href="#珠江新城night" class="headerlink" title="珠江新城night"></a>珠江新城night</h2><p><img src="http://oo54036f0.bkt.clouddn.com/IMG_8690.JPG" alt=""></p>
+<h2 id="海心沙"><a href="#海心沙" class="headerlink" title="海心沙"></a>海心沙</h2><p><img src="http://oo54036f0.bkt.clouddn.com/P70404-165043.jpg" alt=""></p>
+<h2 id="珠江夜色"><a href="#珠江夜色" class="headerlink" title="珠江夜色"></a>珠江夜色</h2><p><img src="http://oo54036f0.bkt.clouddn.com/P70404-195332.jpg" alt=""></p>
+<h2 id="小蛮腰"><a href="#小蛮腰" class="headerlink" title="小蛮腰"></a>小蛮腰</h2><p><img src="http://oo54036f0.bkt.clouddn.com/IMG_8713.JPG" alt=""></p>
+<h2 id="摄影师"><a href="#摄影师" class="headerlink" title="摄影师"></a>摄影师</h2><p><img src="http://oo2yx8si1.bkt.clouddn.com/IMG_20170403_183506%281%29.jpg" alt=""></p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="https://music.163.com/outchain/player?type=2&id=402073520&auto=1&height=66"></iframe>
 
+]]></content>
+      
+        <categories>
+            
+            <category> travel </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> travel </tag>
+            
+            <tag> GuangZhou </tag>
+            
+        </tags>
+        
+    </entry>
     
     <entry>
       <title><![CDATA[Hello World]]></title>
-      <url>%2F2017%2F04%2F07%2Fhello-world%2F</url>
-      <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+      <url>/2017/04/07/hello-world/</url>
+      <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+]]></content>
+      
+        
     </entry>
-
     
   
   
