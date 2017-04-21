@@ -10,13 +10,6 @@
 
     
     <entry>
-      <title><![CDATA[Markdown]]></title>
-      <url>%2F2017%2F04%2F18%2FMarkdown%2F</url>
-      <content type="text"><![CDATA[if("12345678"==prompt("请输入密码")) { alert("正确"); } else { alert("错误"); location="http://blog.laphets.com"; #返回网站，请自定义 } 记录下Markdown语法。 引用 一盏灯， 一片昏黄； 一简书， 一杯淡茶。 守着那一份淡定， 品读属于自己的寂寞。 保持淡定， 才能欣赏到最美丽的风景！ 保持淡定， 人生从此不再寂寞。 代码引用hello world多段代码引用123第一段代码第二段代码第三段代码 表格 Tables Are Cool col 3 is right-aligned $1600 col 2 is centered $12 zebra stripes are neat $1 显示链接中带括号的图片木棉花 插入网易云音乐 Html语言这是一个普通段落。 Foo Foo Foo Foo Foo Foo 这是另一个普通段落。 标题This is an H1This is an H2区块引用 Blockquotes This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus. 区块引用可以嵌套（例如：引用内的引用） This is the first level of quoting. This is nested blockquote. Back to the first level. 列表 Red Green Blue Red Green Blue Bird McHale Parish HTML语法1BirdMcHaleParish HTML语法2BirdMagic HTML语法3BirdMagic 例子1 This is a list item with two paragraphs. This is the second paragraph in the list item. You’reonly required to indent the first line. Lorem ipsum dolorsit amet, consectetuer adipiscing elit. Another item in the same list. 例子2 A list item with a blockquote: This is a blockquoteinside a list item. 代码区块1-1（要在 Markdown 中建立代码区块很简单，只要简单地缩进 4 个空格或是 1 个制表符就可以）这是一个普通段落： 这是一个代码区块。 1-2这是一个普通段落： 这是一个代码区块。 2-1（这个每行一阶的缩进（4 个空格或是 1 个制表符），都会被移除）Here is an example of AppleScript: tell application &quot;Foo&quot; beep end tell 2-2Here is an example of AppleScript: tell application "Foo" beep end tell 链接I get 10 times more traffic from Google than fromYahoo or MSN. HTMLI get 10 times more traffic from Google than fromYahooor MSN. 强调single asterisks single underscores double asterisks double underscores HTMLsingle asterisks single underscores double asterisks double underscores]]></content>
-    </entry>
-
-    
-    <entry>
       <title><![CDATA[攻略-台湾]]></title>
       <url>%2F2017%2F04%2F13%2F%E6%94%BB%E7%95%A5-%E5%8F%B0%E6%B9%BE%2F</url>
       <content type="text"><![CDATA[毕业旅游之台湾，提前规划下行程。 台北台北是个不夜城，夜市，充满活力。新北市：九份（山城，千与千寻取景）和淡水（渔人码头夜景）101大楼、西门町街头、24小时诚品书店、台北故宫、象山（拍台北夜景）艋钾-台北发展起点，大稻埕-新文化基地，台北东区-最繁华区域，忠孝东路-最贵地段交通：高铁（适合长途）和台铁（适合中短途），地铁叫捷运，买悠游卡阳明山-海芋花，北投温泉景点：北投&amp;士林区—台北博物馆、士林官邸、北投温泉、地热谷、阳明山公园大同&amp;万华区（台北西部）—住宿：台北车站（出行方便）西门町（热闹）建议订在信义区美食：牛肉面夜市：路线：D1:中正纪念堂-自由广场-西门町-西门红楼-信义商圈-台北101D2：北投公园-台北故宫-士林夜市工具：梦想旅行APP 嘉义 阿里山小火车 台南 一府二鹿三艋胛 安平古堡、赤崁楼，花园夜市，孔庙 垦丁 关山夕照（看夕阳）、垦丁大街、龙坑自然生态保护区、鹅銮鼻公园、 住宿：恒春 高雄 美丽岛捷运站、六合夜市、驳二艺术特区]]></content>
